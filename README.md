@@ -17,6 +17,8 @@ Elasticsearch client tool for easy search, edit and delete Index documents.
 - Easy configuration of advanced Elasticsearch search params in configuration tab.
 - JSON results view available, if configured.
 - Dropping index/mapping supported, if configured.
+- 
+The Necroscope says be very careful when deleting with the * option.
 
 ###Configuration:
 
